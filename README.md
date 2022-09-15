@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SaezMD
 - 👀 I’m interested in automations, templates, learn from the bottom and teach others in the future
 - 🌱 I’m currently learning JavaScript, Python and Java
-- 💞️ I’m looking to collaborate on any cool projects than can save me time and error on my daily work
+- 💞️ I’m looking to collaborate on any cool projects than can save me time and human error on my daily work
 - 📫 How to reach me saulsaezrodriguez@gmail.com
 
 <!---
